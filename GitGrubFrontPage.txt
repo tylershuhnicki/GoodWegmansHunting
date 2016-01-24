@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset= "utf -8" >
+		<title> "SOWRY ABOOT THAT EH?!" </title>
+	</head>
+	<body>
+		<h1>"Title goes here"</h1>
+		<p> thats some sick contents thats gonna be here</p>
+	
+	<h2>"sick maps bruh"</h2>
+	</body>
+
+</html>
